@@ -22,6 +22,11 @@ scrollHeight
 ```css
 (function(){var w=window,d=w.document,b=d.body,s=d.createElement("link");s.rel="stylesheet";s.href="http://192.168.9.12/css/flex.css";b.appendChild(s);})();
 ```
+
+3:收藏夹方法
+```js
+javascript:(function(){var t=new Date().getTime(),w=window,d=w.document,b=d.body,s=d.createElement("script");s.src="http://192.168.9.12/js/mob.js";b.appendChild(s);var ss=d.createElement("link");ss.rel="stylesheet";ss.href="http://192.168.9.12/css/flex.css";b.appendChild(ss);})();
+```
 ##online tools
 [transform](http://ecd.tencent.com/css3/tools.html)
 ##参考文档
