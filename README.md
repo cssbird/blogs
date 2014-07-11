@@ -9,10 +9,14 @@ emmet快速开发
 scrollHeight
 ```
 ##适配
+
+1:add js
 ```js
-/* add js */
 (function(){var w=window,d=w.document,b=d.body,s=d.createElement("script");s.src="http://192.168.9.12/js/mobile.js";b.appendChild(s);})();
-/* add css */
+```
+
+2:add css
+```css
 (function(){var w=window,d=w.document,b=d.body,s=d.createElement("link");s.rel="stylesheet";s.href="http://192.168.9.12/css/flex.css";b.appendChild(s);})();
 ```
 ##online tools
