@@ -8,6 +8,13 @@ emmet快速开发
 ```js
 scrollHeight
 ```
+##适配
+```js
+/* add js */
+(function(){var w=window,d=w.document,b=d.body,s=d.createElement("script");s.src="http://192.168.9.12/js/mobile.js";b.appendChild(s);})();
+/* add css */
+(function(){var w=window,d=w.document,b=d.body,s=d.createElement("link");s.rel="stylesheet";s.href="http://192.168.9.12/css/flex.css";b.appendChild(s);})();
+```
 ##online tools
 [transform](http://ecd.tencent.com/css3/tools.html)
 ##参考文档
