@@ -11,12 +11,12 @@ scrollHeight
 ##online tools
 [transform](http://ecd.tencent.com/css3/tools.html)
 ##参考文档
-[alloyteam](http://alloyteam.github.io/Spirit/)
-[css的未来](https://speakerdeck.com/stopsatgreen/the-css-of-tomorrow-revised)
-[腾讯编码规范](http://alloyteam.github.io/code-guide/)
-[AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
-[AlloyStick](http://alloyteam.github.io/AlloyStick/)
-[AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/)
+* [alloyteam](http://alloyteam.github.io/Spirit/)
+* [css的未来](https://speakerdeck.com/stopsatgreen/the-css-of-tomorrow-revised)
+* [腾讯编码规范](http://alloyteam.github.io/code-guide/)
+* [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
+* [AlloyStick](http://alloyteam.github.io/AlloyStick/)
+* [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/)
 
 ## 资源与工具
 
