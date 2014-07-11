@@ -12,6 +12,7 @@ scrollHeight
 在不更改原文档的结构下进行适配
 
 可以通过js增加mobile内容
+
 1:add js
 ```js
 (function(){var w=window,d=w.document,b=d.body,s=d.createElement("script");s.src="http://192.168.9.12/js/mobile.js";b.appendChild(s);})();
