@@ -1,7 +1,7 @@
 ##碰撞检测
 1：用间距进行检测
 2：用像素进行检测
-(../images/hit.png)
+![hit](http://cssbird.github.io/images/hit.png)
 
 ```js
 c.clearRect(0,0,canvas.width,canvas.height);
